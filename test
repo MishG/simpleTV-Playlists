@@ -1,3 +1,21 @@
-﻿#EXTM3U
-#EXTINF:-1 group-title="4K" tvg-logo="../Channel/Logo/.red HD.png",Red Bull TV UHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?nmstv.m3u8
+#EXTM3U
+#EXTINF:-1,KHL
+http://bluepoint/3307?archive=true
+#EXTINF:-1,KHL
+https://www.voka.tv/bacba19c-86e8-45d3-bb66-8411440e0ec0
+#EXTINF:-1,KHL Prime
+https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
+#EXTINF:-1,KHL Prime
+https://www.voka.tv/999edfe8-70d3-4510-b10c-b997def655ad
+#EXTINF:-1,KHL Prime
+http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?offset=1
+#EXTINF:-1,Setanta Sports 1 HD
+http://starnet-md.SETANTA_HD_H264
+#EXTINF:-1,Setanta Sports 1 HD
+https://www.voka.tv/f9aa64b0-75bc-4ae6-a246-6dc859fc6f58
+#EXTINF:-1,Setanta Sports 2 HD
+http://only-tv.org/setanta-sports-2.html
+#EXTINF:-1,Setanta Sports 2 HD
+http://starnet-md.SETANTAPLUS_HD_H264
+#EXTINF:-1,Setanta Sports 2 HD
+http://only-tv.net/setanta-sports-plus.html
