@@ -23,12 +23,6 @@ http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/110/index.m3u8
 http://api.peers.tv/timeshift/firstmuz/16/playlist.m3u8?offset=1
 #EXTINF:-1,1HD Music Television
 http://hls.peers.tv/streaming/firstmuz/16/copy_a/playlist.m3u8
-#EXTINF:-1,24 Ghanta IN
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/6638/index.m3u8
-#EXTINF:-1,26 регион HD
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15353/index.m3u8
-#EXTINF:-1,2TV LT
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/6364/index.m3u8
 #EXTINF:-1,2x2
 https://wink.ru/NFUzTXQ1Q2R1RldheUZtZHZJRFd5OEZTRDl5Y3NoMkwwVm1idWdYYXVWMlp1NWlia05tTGxaWGFzUkhhdEVtZGhKV1k2OXlMNk1IYzBSSGE=
 #EXTINF:-1,2x2
@@ -45,8 +39,6 @@ http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19206/index.m3u8
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/825/index.m3u8
 #EXTINF:-1,360 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2065/index.m3u8
-#EXTINF:-1,360 HD +2 (Белорецк-ЗТ)
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15371/index.m3u8
 #EXTINF:-1,360 TV HD LV
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18013/index.m3u8
 #EXTINF:-1,360 Новости HD
@@ -67,10 +59,6 @@ http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?offset=1
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2040/index.m3u8
 #EXTINF:-1,365 Дней ТВ HD
 https://wink.ru/PTBuWnhFRE81SUdPa0ZXTTBZRE0yWVdObFptTm1GMk5qbFRZNUV6TTFZbU15MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidVEzY2xaV2F1RldidlFFU1pWa1RFVmpOejhGU0Q5U2J5UldidlFYWnU1Q2VwNVdabjVtTHVSMll1SVRNMEVUT3o5eUw2TUhjMFJIYQ==
-#EXTINF:-1,4 Fun TV
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10069/index.m3u8
-#EXTINF:-1,43 канал
-http://hls.peers.tv/streaming/43_kanal/126/copy/playlist.m3u8
 #EXTINF:-1,49 канал
 https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
 #EXTINF:-1,49 канал
