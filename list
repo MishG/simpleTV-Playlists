@@ -309,53 +309,53 @@ https://wink.ru/PT1RZm1KRE00a0Raa2hUWWlKR1oxWWpaM1FXTTRNbVpqUldNMGtETTVZak4zVVRQ
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2085/index.m3u8
 #EXTINF:-1,Investigation Discovery HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2102/index.m3u8
-#EXTINF:-1,KBC-B.O.B
+#EXTINF:-1 group-title="Фильмы",KBC-B.O.B
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11072/index.m3u8
-#EXTINF:-1,KBC-Comics
+#EXTINF:-1 group-title="Фильмы",KBC-Comics
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11073/index.m3u8
-#EXTINF:-1,KBC-Elite comedys
+#EXTINF:-1 group-title="Фильмы",KBC-Elite comedys
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11074/index.m3u8
-#EXTINF:-1,KBC-Family Animation
+#EXTINF:-1 group-title="Фильмы",KBC-Family Animation
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11075/index.m3u8
-#EXTINF:-1,KBC-Fantastic
+#EXTINF:-1 group-title="Фильмы",KBC-Fantastic
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11076/index.m3u8
-#EXTINF:-1,KBC-History
+#EXTINF:-1 group-title="Фильмы",KBC-History
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11077/index.m3u8
-#EXTINF:-1,KBC-Light сериал RU
+#EXTINF:-1 group-title="Фильмы",KBC-Light сериал RU
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11078/index.m3u8
-#EXTINF:-1,KBC-Newfilm
+#EXTINF:-1 group-title="Фильмы",KBC-Newfilm
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11079/index.m3u8
-#EXTINF:-1,KBC-Premium
+#EXTINF:-1 group-title="Фильмы",KBC-Premium
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11080/index.m3u8
-#EXTINF:-1,KBC-Russian Комедия
+#EXTINF:-1 group-title="Фильмы",KBC-Russian Комедия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11081/index.m3u8
-#EXTINF:-1,KBC-Second HIT
+#EXTINF:-1 group-title="Фильмы",KBC-Second HIT
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11082/index.m3u8
-#EXTINF:-1,KBC-Видак
+#EXTINF:-1 group-title="Фильмы",KBC-Видак
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11084/index.m3u8
-#EXTINF:-1,KBC-ГАЙ Ritchie & Tarantino
+#EXTINF:-1 group-title="Фильмы",KBC-ГАЙ Ritchie & Tarantino
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11085/index.m3u8
-#EXTINF:-1,KBC-Гоблин
+#EXTINF:-1 group-title="Фильмы",KBC-Гоблин
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/20179/index.m3u8
-#EXTINF:-1,KBC-Драма tic
+#EXTINF:-1 group-title="Фильмы",KBC-Драма tic
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11086/index.m3u8
-#EXTINF:-1,KBC-Кинотеатр
+#EXTINF:-1 group-title="Фильмы",KBC-Кинотеатр
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11087/index.m3u8
-#EXTINF:-1,KBC-Кошмарное
+#EXTINF:-1 group-title="Фильмы",KBC-Кошмарное
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11088/index.m3u8
-#EXTINF:-1,KBC-Криминальный Serial
+#EXTINF:-1 group-title="Фильмы",KBC-Криминальный Serial
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11092/index.m3u8
-#EXTINF:-1,KBC-Легендарное
+#EXTINF:-1 group-title="Фильмы",KBC-Легендарное
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11083/index.m3u8
-#EXTINF:-1,KBC-Микс UA HD
+#EXTINF:-1 group-title="Фильмы",KBC-Микс UA HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/20178/index.m3u8
-#EXTINF:-1,KBC-НАШ ROCK
+#EXTINF:-1 group-title="Фильмы",KBC-НАШ ROCK
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11089/index.m3u8
-#EXTINF:-1,KBC-Союз МУЛЬТZAL
+#EXTINF:-1 group-title="Фильмы",KBC-Союз МУЛЬТZAL
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11090/index.m3u8
-#EXTINF:-1,KBC-Страна СССР
+#EXTINF:-1 group-title="Фильмы",KBC-Страна СССР
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11091/index.m3u8
-#EXTINF:-1,KBC-Шпионское
+#EXTINF:-1 group-title="Фильмы",KBC-Шпионское
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11093/index.m3u8
 #EXTINF:-1,KHL
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/519/index.m3u8
