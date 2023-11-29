@@ -1263,7 +1263,7 @@ http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?offset=1
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/825/index.m3u8
 #EXTINF:-1,360° Новости HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2065/index.m3u8
-#EXTINF:-1,360 Новости HD
+#EXTINF:-1,360° Новости HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18038/index.m3u8
 #EXTINF:-1,360°
 http://hls.peers.tv/streaming/360tv/126/vh1w/playlist.m3u8
@@ -1485,259 +1485,259 @@ http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/20000/index.m3u8
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17052/index.m3u8
 #EXTINF:-1,VB MTV Old Россия HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/20174/index.m3u8
-#EXTINF:-1,VB Romantic and Ballads
+#EXTINF:-1 group-title="Фильмы",VB Romantic and Ballads
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/16014/index.m3u8
-#EXTINF:-1,VB Russian Dance Hits of 90s
+#EXTINF:-1 group-title="Фильмы",VB Russian Dance Hits of 90s
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14156/index.m3u8
-#EXTINF:-1,VB VHS Classic
+#EXTINF:-1 group-title="Фильмы",VB VHS Classic
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19429/index.m3u8
-#EXTINF:-1,VB Контент Моего Детства
+#EXTINF:-1 group-title="Фильмы",VB Контент Моего Детства
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/20001/index.m3u8
-#EXTINF:-1,VB Назад в СССР HD
+#EXTINF:-1 group-title="Фильмы",VB Назад в СССР HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/20175/index.m3u8
-#EXTINF:-1,VB ОСП-Cтудия
+#EXTINF:-1 group-title="Фильмы",VB ОСП-Cтудия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/16004/index.m3u8
-#EXTINF:-1,VB Осторожно Модерн
+#EXTINF:-1 group-title="Фильмы",VB Осторожно Модерн
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/16005/index.m3u8
-#EXTINF:-1,VB Российские Сериалы
+#EXTINF:-1 group-title="Фильмы",VB Российские Сериалы
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18043/index.m3u8
-#EXTINF:-1,VB Русская Попса 80х-90х
+#EXTINF:-1 group-title="Фильмы",VB Русская Попса 80х-90х
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14155/index.m3u8
-#EXTINF:-1,VF Adventure
+#EXTINF:-1 group-title="Фильмы",VF Adventure
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10000/index.m3u8
-#EXTINF:-1,VF Anime
+#EXTINF:-1 group-title="Фильмы",VF Anime
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10001/index.m3u8
-#EXTINF:-1,VF Art house
+#EXTINF:-1 group-title="Фильмы",VF Art house
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11119/index.m3u8
-#EXTINF:-1,VF Britney Spears
+#EXTINF:-1 group-title="Фильмы",VF Britney Spears
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14005/index.m3u8
-#EXTINF:-1,VF Cartoon
+#EXTINF:-1 group-title="Фильмы",VF Cartoon
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10002/index.m3u8
-#EXTINF:-1,VF Classic
+#EXTINF:-1 group-title="Фильмы",VF Classic
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10054/index.m3u8
-#EXTINF:-1,VF Comedy
+#EXTINF:-1 group-title="Фильмы",VF Comedy
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10003/index.m3u8
-#EXTINF:-1,VF Comedy Woman
+#EXTINF:-1 group-title="Фильмы",VF Comedy Woman
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18101/index.m3u8
-#EXTINF:-1,VF Comics
+#EXTINF:-1 group-title="Фильмы",VF Comics
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13092/index.m3u8
-#EXTINF:-1,VF Detective
+#EXTINF:-1 group-title="Фильмы",VF Detective
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11120/index.m3u8
-#EXTINF:-1,VF Disney Cartoon
+#EXTINF:-1 group-title="Фильмы",VF Disney Cartoon
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15027/index.m3u8
-#EXTINF:-1,VF Disney Movie
+#EXTINF:-1 group-title="Фильмы",VF Disney Movie
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15010/index.m3u8
-#EXTINF:-1,VF Family
+#EXTINF:-1 group-title="Фильмы",VF Family
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10004/index.m3u8
-#EXTINF:-1,VF Fantastic
+#EXTINF:-1 group-title="Фильмы",VF Fantastic
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11121/index.m3u8
-#EXTINF:-1,VF Fantasy
+#EXTINF:-1 group-title="Фильмы",VF Fantasy
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10005/index.m3u8
-#EXTINF:-1,VF HBO
+#EXTINF:-1 group-title="Фильмы",VF HBO
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19428/index.m3u8
-#EXTINF:-1,VF Marvel
+#EXTINF:-1 group-title="Фильмы",VF Marvel
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10081/index.m3u8
-#EXTINF:-1,VF Melodrama
+#EXTINF:-1 group-title="Фильмы",VF Melodrama
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10006/index.m3u8
-#EXTINF:-1,VF Metal
+#EXTINF:-1 group-title="Фильмы",VF Metal
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17033/index.m3u8
-#EXTINF:-1,VF Modern Talking
+#EXTINF:-1 group-title="Фильмы",VF Modern Talking
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14004/index.m3u8
-#EXTINF:-1,VF Music
+#EXTINF:-1 group-title="Фильмы",VF Music
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15516/index.m3u8
-#EXTINF:-1,VF Mystic
+#EXTINF:-1 group-title="Фильмы",VF Mystic
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10007/index.m3u8
-#EXTINF:-1,VF Netflix
+#EXTINF:-1 group-title="Фильмы",VF Netflix
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19427/index.m3u8
-#EXTINF:-1,VF New Year
+#EXTINF:-1 group-title="Фильмы",VF New Year
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15522/index.m3u8
-#EXTINF:-1,VF Premiere
+#EXTINF:-1 group-title="Фильмы",VF Premiere
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10052/index.m3u8
-#EXTINF:-1,VF Rock
+#EXTINF:-1 group-title="Фильмы",VF Rock
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15517/index.m3u8
-#EXTINF:-1,VF Series
+#EXTINF:-1 group-title="Фильмы",VF Series
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13085/index.m3u8
-#EXTINF:-1,VF The X-Files
+#EXTINF:-1 group-title="Фильмы",VF The X-Files
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17002/index.m3u8
-#EXTINF:-1,VF Thriller
+#EXTINF:-1 group-title="Фильмы",VF Thriller
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13089/index.m3u8
-#EXTINF:-1,VF TOP Series
+#EXTINF:-1 group-title="Фильмы",VF TOP Series
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11116/index.m3u8
-#EXTINF:-1,VF VHS Cartoon
+#EXTINF:-1 group-title="Фильмы",VF VHS Cartoon
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11118/index.m3u8
-#EXTINF:-1,VF VHS MIX
+#EXTINF:-1 group-title="Фильмы",VF VHS MIX
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10009/index.m3u8
-#EXTINF:-1,VF Авто
+#EXTINF:-1 group-title="Фильмы",VF Авто
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15511/index.m3u8
-#EXTINF:-1,VF Американская история ужасов
+#EXTINF:-1 group-title="Фильмы",VF Американская история ужасов
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17005/index.m3u8
-#EXTINF:-1,VF Баня
+#EXTINF:-1 group-title="Фильмы",VF Баня
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18200/index.m3u8
-#EXTINF:-1,VF Без цензуры
+#EXTINF:-1 group-title="Фильмы",VF Без цензуры
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17017/index.m3u8
-#EXTINF:-1,VF Беларусьфильм
+#EXTINF:-1 group-title="Фильмы",VF Беларусьфильм
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18125/index.m3u8
-#EXTINF:-1,VF Бесстыжие
+#EXTINF:-1 group-title="Фильмы",VF Бесстыжие
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10075/index.m3u8
-#EXTINF:-1,VF Боевик
+#EXTINF:-1 group-title="Фильмы",VF Боевик
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10087/index.m3u8
-#EXTINF:-1,VF Владимир Высоцкий
+#EXTINF:-1 group-title="Фильмы",VF Владимир Высоцкий
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10066/index.m3u8
-#EXTINF:-1,VF Военные
+#EXTINF:-1 group-title="Фильмы",VF Военные
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10082/index.m3u8
-#EXTINF:-1,VF Воронины
+#EXTINF:-1 group-title="Фильмы",VF Воронины
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13083/index.m3u8
-#EXTINF:-1,VF Гарри Поттер
+#EXTINF:-1 group-title="Фильмы",VF Гарри Поттер
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14230/index.m3u8
-#EXTINF:-1,VF Городок
+#EXTINF:-1 group-title="Фильмы",VF Городок
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18097/index.m3u8
-#EXTINF:-1,VF Два с половиной человека
+#EXTINF:-1 group-title="Фильмы",VF Два с половиной человека
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10062/index.m3u8
-#EXTINF:-1,VF Джеки Чан
+#EXTINF:-1 group-title="Фильмы",VF Джеки Чан
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17009/index.m3u8
-#EXTINF:-1,VF Доктор Хаус
+#EXTINF:-1 group-title="Фильмы",VF Доктор Хаус
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17016/index.m3u8
-#EXTINF:-1,VF Домашний повар
+#EXTINF:-1 group-title="Фильмы",VF Домашний повар
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15514/index.m3u8
-#EXTINF:-1,VF Друзья
+#EXTINF:-1 group-title="Фильмы",VF Друзья
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17006/index.m3u8
-#EXTINF:-1,VF Ералаш
+#EXTINF:-1 group-title="Фильмы",VF Ералаш
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14163/index.m3u8
-#EXTINF:-1,VF Игра престолов
+#EXTINF:-1 group-title="Фильмы",VF Игра престолов
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18119/index.m3u8
-#EXTINF:-1,VF История
+#EXTINF:-1 group-title="Фильмы",VF История
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13091/index.m3u8
-#EXTINF:-1,VF Караоке
+#EXTINF:-1 group-title="Фильмы",VF Караоке
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15518/index.m3u8
-#EXTINF:-1,VF Карточный домик
+#EXTINF:-1 group-title="Фильмы",VF Карточный домик
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14221/index.m3u8
-#EXTINF:-1,VF Катастрофы
+#EXTINF:-1 group-title="Фильмы",VF Катастрофы
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10080/index.m3u8
-#EXTINF:-1,VF КВН
+#EXTINF:-1 group-title="Фильмы",VF КВН
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14170/index.m3u8
-#EXTINF:-1,VF Киностудия им. Горького
+#EXTINF:-1 group-title="Фильмы",VF Киностудия им. Горького
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18122/index.m3u8
-#EXTINF:-1,VF Классика
+#EXTINF:-1 group-title="Фильмы",VF Классика
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10053/index.m3u8
-#EXTINF:-1,VF Клиника
+#EXTINF:-1 group-title="Фильмы",VF Клиника
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13094/index.m3u8
-#EXTINF:-1,VF Комедия
+#EXTINF:-1 group-title="Фильмы",VF Комедия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10055/index.m3u8
-#EXTINF:-1,VF Концерты
+#EXTINF:-1 group-title="Фильмы",VF Концерты
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14159/index.m3u8
-#EXTINF:-1,VF Криминал
+#EXTINF:-1 group-title="Фильмы",VF Криминал
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13093/index.m3u8
-#EXTINF:-1,VF Кухня
+#EXTINF:-1 group-title="Фильмы",VF Кухня
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18199/index.m3u8
-#EXTINF:-1,VF Легенды Ретро ФМ
+#EXTINF:-1 group-title="Фильмы",VF Легенды Ретро ФМ
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10067/index.m3u8
-#EXTINF:-1,VF Ленфильм
+#EXTINF:-1 group-title="Фильмы",VF Ленфильм
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18121/index.m3u8
-#EXTINF:-1,VF Леонид Гайдай
+#EXTINF:-1 group-title="Фильмы",VF Леонид Гайдай
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17004/index.m3u8
-#EXTINF:-1,VF Луи де Фюнес
+#EXTINF:-1 group-title="Фильмы",VF Луи де Фюнес
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17000/index.m3u8
-#EXTINF:-1,VF Малыш
+#EXTINF:-1 group-title="Фильмы",VF Малыш
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11123/index.m3u8
-#EXTINF:-1,VF Мосфильм
+#EXTINF:-1 group-title="Фильмы",VF Мосфильм
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10084/index.m3u8
-#EXTINF:-1,VF Музсоюз
+#EXTINF:-1 group-title="Фильмы",VF Музсоюз
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15521/index.m3u8
-#EXTINF:-1,VF Музыка
+#EXTINF:-1 group-title="Фильмы",VF Музыка
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15512/index.m3u8
-#EXTINF:-1,VF Музыкальный Новый год!
+#EXTINF:-1 group-title="Фильмы",VF Музыкальный Новый год!
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/16140/index.m3u8
-#EXTINF:-1,VF Мультуб
+#EXTINF:-1 group-title="Фильмы",VF Мультуб
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15520/index.m3u8
-#EXTINF:-1,VF Мультфильмы СССР
+#EXTINF:-1 group-title="Фильмы",VF Мультфильмы СССР
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10086/index.m3u8
-#EXTINF:-1,VF Мыльные оперы
+#EXTINF:-1 group-title="Фильмы",VF Мыльные оперы
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13088/index.m3u8
-#EXTINF:-1,VF Наша победа
+#EXTINF:-1 group-title="Фильмы",VF Наша победа
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10083/index.m3u8
-#EXTINF:-1,VF Наша Раша
+#EXTINF:-1 group-title="Фильмы",VF Наша Раша
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17010/index.m3u8
-#EXTINF:-1,VF Новогодние мультфильмы
+#EXTINF:-1 group-title="Фильмы",VF Новогодние мультфильмы
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15523/index.m3u8
-#EXTINF:-1,VF Новогодний
+#EXTINF:-1 group-title="Фильмы",VF Новогодний
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17035/index.m3u8
-#EXTINF:-1,VF Одесская киностудия
+#EXTINF:-1 group-title="Фильмы",VF Одесская киностудия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18120/index.m3u8
-#EXTINF:-1,VF Однажды в России
+#EXTINF:-1 group-title="Фильмы",VF Однажды в России
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19286/index.m3u8
-#EXTINF:-1,VF Оскар
+#EXTINF:-1 group-title="Фильмы",VF Оскар
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11122/index.m3u8
-#EXTINF:-1,VF Охота
+#EXTINF:-1 group-title="Фильмы",VF Охота
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15513/index.m3u8
-#EXTINF:-1,VF Премьера
+#EXTINF:-1 group-title="Фильмы",VF Премьера
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10051/index.m3u8
-#EXTINF:-1,VF Привет из 90х
+#EXTINF:-1 group-title="Фильмы",VF Привет из 90х
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17011/index.m3u8
-#EXTINF:-1,VF Путешествия
+#EXTINF:-1 group-title="Фильмы",VF Путешествия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15515/index.m3u8
-#EXTINF:-1,VF Реальные пацаны
+#EXTINF:-1 group-title="Фильмы",VF Реальные пацаны
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17015/index.m3u8
-#EXTINF:-1,VF Рижская киностудия
+#EXTINF:-1 group-title="Фильмы",VF Рижская киностудия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18123/index.m3u8
-#EXTINF:-1,VF Русский рок
+#EXTINF:-1 group-title="Фильмы",VF Русский рок
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17037/index.m3u8
-#EXTINF:-1,VF Рыбалка
+#EXTINF:-1 group-title="Фильмы",VF Рыбалка
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/16138/index.m3u8
-#EXTINF:-1,VF С новым годом!
+#EXTINF:-1 group-title="Фильмы",VF С новым годом!
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15524/index.m3u8
-#EXTINF:-1,VF СашаТаня
+#EXTINF:-1 group-title="Фильмы",VF СашаТаня
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17008/index.m3u8
-#EXTINF:-1,VF Сваты
+#EXTINF:-1 group-title="Фильмы",VF Сваты
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13080/index.m3u8
-#EXTINF:-1,VF Свердловская киностудия
+#EXTINF:-1 group-title="Фильмы",VF Свердловская киностудия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18124/index.m3u8
-#EXTINF:-1,VF Сверхъестественное
+#EXTINF:-1 group-title="Фильмы",VF Сверхъестественное
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17003/index.m3u8
-#EXTINF:-1,VF Секс в большом городе
+#EXTINF:-1 group-title="Фильмы",VF Секс в большом городе
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14224/index.m3u8
-#EXTINF:-1,VF Сериал
+#EXTINF:-1 group-title="Фильмы",VF Сериал
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13087/index.m3u8
-#EXTINF:-1,VF Скуби-Ду
+#EXTINF:-1 group-title="Фильмы",VF Скуби-Ду
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17007/index.m3u8
-#EXTINF:-1,VF След
+#EXTINF:-1 group-title="Фильмы",VF След
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13086/index.m3u8
-#EXTINF:-1,VF Солдаты
+#EXTINF:-1 group-title="Фильмы",VF Солдаты
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13081/index.m3u8
-#EXTINF:-1,VF Союзмультфильм
+#EXTINF:-1 group-title="Фильмы",VF Союзмультфильм
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14238/index.m3u8
-#EXTINF:-1,VF Стройка
+#EXTINF:-1 group-title="Фильмы",VF Стройка
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/16139/index.m3u8
-#EXTINF:-1,VF Счастливы Вместе
+#EXTINF:-1 group-title="Фильмы",VF Счастливы Вместе
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/9242/index.m3u8
-#EXTINF:-1,VF Тайны следствия
+#EXTINF:-1 group-title="Фильмы",VF Тайны следствия
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13082/index.m3u8
-#EXTINF:-1,VF Теория большого взрыва
+#EXTINF:-1 group-title="Фильмы",VF Теория большого взрыва
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15009/index.m3u8
-#EXTINF:-1,VF Ужасы
+#EXTINF:-1 group-title="Фильмы",VF Ужасы
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10008/index.m3u8
-#EXTINF:-1,VF Ужасы VHS
+#EXTINF:-1 group-title="Фильмы",VF Ужасы VHS
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10010/index.m3u8
-#EXTINF:-1,VF Универ
+#EXTINF:-1 group-title="Фильмы",VF Универ
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/13084/index.m3u8
-#EXTINF:-1,VF Универ новая общага
+#EXTINF:-1 group-title="Фильмы",VF Универ новая общага
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17013/index.m3u8
-#EXTINF:-1,VF Уральские пельмени
+#EXTINF:-1 group-title="Фильмы",VF Уральские пельмени
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18198/index.m3u8
-#EXTINF:-1,VF Фильмы СССР
+#EXTINF:-1 group-title="Фильмы",VF Фильмы СССР
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10085/index.m3u8
-#EXTINF:-1,VF Хит-парад
+#EXTINF:-1 group-title="Фильмы",VF Хит-парад
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17036/index.m3u8
-#EXTINF:-1,VF Ходячие мертвецы
+#EXTINF:-1 group-title="Фильмы",VF Ходячие мертвецы
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17014/index.m3u8
-#EXTINF:-1,VF Чернобыль
+#EXTINF:-1 group-title="Фильмы",VF Чернобыль
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17001/index.m3u8
-#EXTINF:-1,VF Шансон
+#EXTINF:-1 group-title="Фильмы",VF Шансон
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15519/index.m3u8
-#EXTINF:-1,VF Эльдар Рязанов
+#EXTINF:-1 group-title="Фильмы",VF Эльдар Рязанов
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/17012/index.m3u8
-#EXTINF:-1,VF Юмор 18+
+#EXTINF:-1 group-title="Фильмы",VF Юмор 18+
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/16137/index.m3u8
-#EXTINF:-1,VF Ёлки
+#EXTINF:-1 group-title="Фильмы",VF Ёлки
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/14222/index.m3u8
 #EXTINF:-1,Vh 1 FHD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18041/index.m3u8
@@ -1749,30 +1749,12 @@ http://only-tv.org/viasat-explorer.html
 http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?offset=1
 #EXTINF:-1,Viasat Explore HD
 https://wink.ru/PTAzTTNjRFp6UVdaekF6WWtoak4xTW1ZbU5tWWtKVFlqVldONElUTnlRVFp5MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidVEzY2xaV2F1RldidlFFU0ZKMVRNQkZXRlJWUVRGVVNXOUZTRDlTYnlSV2J2UVhadTVDZXA1V1puNW1MdVIyWXVJVE0wRVRPejl5TDZNSGMwUkhh
-#EXTINF:-1,Viasat Explore HD CEE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12008/index.m3u8
-#EXTINF:-1,VIASAT EXPLORE HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12085/index.m3u8
-#EXTINF:-1,VIASAT FILM ACTION HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12081/index.m3u8
-#EXTINF:-1,VIASAT FILM FAMILY SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12083/index.m3u8
-#EXTINF:-1,VIASAT FILM HITS HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12072/index.m3u8
-#EXTINF:-1,VIASAT FILM PREMIER HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12082/index.m3u8
 #EXTINF:-1,Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,Viasat History
 http://only-tv.org/viasat-history.html
 #EXTINF:-1,Viasat History HD
 https://wink.ru/PTBIWmhOMk55SVRNaFYyTmxoelkzTURaM1VXTWxKMllqVnpZeFFUTjRralloMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidVEzY2xaV2F1RldidlFFU1pKMVRVTlZTSVJWUVRGVVNXOUZTRDlTYnlSV2J2UVhadTVDZXA1V1puNW1MdVIyWXVJVE0wRVRPejl5TDZNSGMwUkhh
-#EXTINF:-1,VIASAT HISTORY HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12101/index.m3u8
-#EXTINF:-1,Viasat Kino Action HD LV
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12024/index.m3u8
-#EXTINF:-1,VIASAT MOTOR HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12104/index.m3u8
 #EXTINF:-1,Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1,Viasat Nature
@@ -1781,35 +1763,31 @@ http://only-tv.org/viasat-nature.html
 http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?offset=1
 #EXTINF:-1,Viasat Nature HD
 https://wink.ru/PT1RZjFZV1lrUkdNMUF6WWxsak5sSjJZbU5HT2xSak54VVROMkFUWnprak1oVldQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDUklWa1VWUlZRT1JWUVRGVVNXOUZTRDlTYnlSV2J2UVhadTVDZXA1V1puNW1MdVIyWXVJVE0wRVRPejl5TDZNSGMwUkhh
-#EXTINF:-1,VIASAT NATURE HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12084/index.m3u8
 #EXTINF:-1,Viasat Nature/History HD
 https://wink.ru/OWh6WWlWVE40TXpZMWNUWTRJR01oaHpNd0F6WTVBek0ya1RNa0pqTjBrRE05a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MME5YWm1sbWJoMTJMRWhVV1M5RVZUbEVTRkpWVlVGa1RVRjBVQmxrVmZORE1EOUZTRDlTYnlSV2J2UVhadTVDZXA1V1puNW1MdVIyWXVJVE0wRVRPejl5TDZNSGMwUkhh
-#EXTINF:-1,VIASAT SERIES HD SE
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12073/index.m3u8
 #EXTINF:-1,Viasat Sport
 https://wink.ru/PT1RZjFBVE1pWjJNbWRqWWxWMll4RTJZaEpXWXhFVE95VUdPakJqTWpGak00UVdQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDVlM5RVVUUlZRVEZVU1c5RlNEOVNieVJXYnZRWFp1NUNlcDVXWm41bUx1UjJZdUlUTTBFVE96OXlMNk1IYzBSSGE=
-#EXTINF:-1,VIASAT SPORT EXTRA HD SE
+#EXTINF:-1 group-title="Спорт",VIASAT SPORT EXTRA HD SE
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12074/index.m3u8
-#EXTINF:-1,VIASAT SPORT FOOTBAL HD SE
+#EXTINF:-1 group-title="Спорт",VIASAT SPORT FOOTBAL HD SE
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12076/index.m3u8
-#EXTINF:-1,VIASAT SPORT GOLF HD SE
+#EXTINF:-1 group-title="Спорт",VIASAT SPORT GOLF HD SE
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12077/index.m3u8
-#EXTINF:-1,Viasat Sport HD
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://wink.ru/PT1RZjFZalo0TXpNNVVqTmhCell5TURNMmtUTnpBak0xRW1ZekVUWjJrVFo1Y1RQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDUklSbFVQQjFVVUYwVUJsa1ZmWkRNRDlGU0Q5U2J5UldidlFYWnU1Q2VwNVdabjVtTHVSMll1SVRNMEVUT3o5eUw2TUhjMFJIYQ==
-#EXTINF:-1,Viasat Sport HD
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
 http://starnet-md.VIASAT_SPORTHD_H264
-#EXTINF:-1,Viasat Sport HD
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1,Viasat Sport HD
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIASAT SPORT HD SE
+#EXTINF:-1 group-title="Спорт",VIASAT SPORT HD SE
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12075/index.m3u8
-#EXTINF:-1,VIASAT SPORT PREMIUM HD SE
+#EXTINF:-1 group-title="Спорт",VIASAT SPORT PREMIUM HD SE
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/12079/index.m3u8
-#EXTINF:-1,Viasat Sport Premium HD SK
+#EXTINF:-1 group-title="Спорт",Viasat Sport Premium HD SK
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/6069/index.m3u8
-#EXTINF:-1,Viasat Sport Ultra HD DK
+#EXTINF:-1 group-title="Спорт",Viasat Sport Ultra HD DK
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19163/index.m3u8
 #EXTINF:-1,Victory HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/11097/index.m3u8
