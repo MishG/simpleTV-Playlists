@@ -2099,45 +2099,45 @@ http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?offset=1
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2155/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Наш Кинопоказ HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2434/index.m3u8
-#EXTINF:-1,Наш Спорт 1
+#EXTINF:-1 group-title="Спорт",Наш Спорт 1
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/7360/index.m3u8
-#EXTINF:-1,Наш Спорт 10 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 10 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15149/index.m3u8
-#EXTINF:-1,Наш Спорт 11 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 11 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15150/index.m3u8
-#EXTINF:-1,Наш Спорт 12 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 12 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15151/index.m3u8
-#EXTINF:-1,Наш Спорт 13 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 13 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15152/index.m3u8
-#EXTINF:-1,Наш Спорт 14 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 14 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15153/index.m3u8
-#EXTINF:-1,Наш Спорт 15 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 15 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15154/index.m3u8
-#EXTINF:-1,Наш Спорт 16 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 16 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15155/index.m3u8
-#EXTINF:-1,Наш Спорт 17 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 17 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15156/index.m3u8
-#EXTINF:-1,Наш Спорт 18 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 18 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15157/index.m3u8
-#EXTINF:-1,Наш Спорт 19 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 19 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15158/index.m3u8
-#EXTINF:-1,Наш Спорт 2
+#EXTINF:-1 group-title="Спорт",Наш Спорт 2
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/7361/index.m3u8
-#EXTINF:-1,Наш Спорт 20 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 20 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15159/index.m3u8
-#EXTINF:-1,Наш Спорт 21 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 21 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15160/index.m3u8
-#EXTINF:-1,Наш Спорт 22 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 22 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15161/index.m3u8
-#EXTINF:-1,Наш Спорт 23 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 23 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15162/index.m3u8
-#EXTINF:-1,Наш Спорт 24 HD
+#EXTINF:-1 group-title="Спорт",Наш Спорт 24 HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15163/index.m3u8
-#EXTINF:-1,Наш Спорт 3
+#EXTINF:-1 group-title="Спорт",Наш Спорт 3
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/7362/index.m3u8
-#EXTINF:-1,Наш Спорт 4
+#EXTINF:-1 group-title="Спорт",Наш Спорт 4
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/7363/index.m3u8
-#EXTINF:-1,Наш Спорт 5
+#EXTINF:-1 group-title="Спорт",Наш Спорт 5
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/7364/index.m3u8
 #EXTINF:-1,Наш дом
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8?version=2
@@ -2235,11 +2235,7 @@ http://api.peers.tv/timeshift/ots/16/playlist.m3u8?offset=1
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10030/index.m3u8
 #EXTINF:-1 group-title="Новосибирск",ОТС
 http://hls.peers.tv/streaming/ots/16/h1080/playlist.m3u8$id=3007
-#EXTINF:-1,Обком ТВ
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19340/index.m3u8
-#EXTINF:-1,Обьединяя Поколения ТВ HD
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/19358/index.m3u8
-#EXTINF:-1,Окко Спорт HD
+#EXTINF:-1 group-title="Спорт",Окко Спорт HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/6554/index.m3u8
 #EXTINF:-1,Орион)
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/15355/index.m3u8
@@ -2917,9 +2913,9 @@ http://api.peers.tv/timeshift/futbol/126/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/futbol/16/playlist.m3u8?offset=1
 #EXTINF:-1 group-title="Спорт",Футбол HD
 https://wink.ru/PTAzTTJFak41UXpONUlHTXpJbVptUldPaUJUTWloell4UUdNaWRUTjJjVFo1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidVEzY2xaV2F1RldidlFFU014VVFDUlZWRzlGU0Q5U2J5UldidlFYWnU1Q2VwNVdabjVtTHVSMll1SVRNMEVUT3o5eUw2TUhjMFJIYQ==
-#EXTINF:-1,Хит HD
+#EXTINF:-1 group-title="Музыка",Хит HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2438/index.m3u8
-#EXTINF:-1,Хоккейный HD
+#EXTINF:-1 group-title="Спорт",Хоккейный HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/10039/index.m3u8
 #EXTINF:-1,Центральное Телевидение
 https://wink.ru/PTBuWTBJMk56QURaNFUyTmlWRFowVURNalJUTTFNak1oWkRPaWxUWXlRV1oxMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidVEzY2xaV2F1RldidllGVk1Ga1VVNVVSRDlGU0Q5U2J5UldidlFYWnU1Q2VwNVdabjVtTHVSMll1SVRNMEVUT3o5eUw2TUhjMFJIYQ==
