@@ -1259,19 +1259,17 @@ http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/702/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1,2x2 (+4)
 http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?offset=1
-#EXTINF:-1,360
+#EXTINF:-1,360° Новости
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/825/index.m3u8
-#EXTINF:-1,360 HD
+#EXTINF:-1,360° Новости HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/2065/index.m3u8
-#EXTINF:-1,360 TV HD LV
-http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18013/index.m3u8
 #EXTINF:-1,360 Новости HD
 http://1mkplbwf.akciatv.ru/iptv/ZANY876LLYCQ9M/18038/index.m3u8
 #EXTINF:-1,360°
 http://hls.peers.tv/streaming/360tv/126/vh1w/playlist.m3u8
-#EXTINF:-1,360° HD
+#EXTINF:-1,360° Новости HD
 https://wink.ru/OWREWndNMk1sZEROellETW1CRE15VTJObEptTTRJMll3WVdaMllET21GRFo5a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MME5YWm1sbWJoMTJMRWhVUkpaMVRMTjFUTlIwVFE5RlNEOVNieVJXYnZRWFp1NUNlcDVXWm41bUx1UjJZdUlUTTBFVE96OXlMNk1IYzBSSGE=
-#EXTINF:-1,360° HD
+#EXTINF:-1,360° Новости HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1,360° Новости
 http://hls.peers.tv/streaming/360_novosti/126/vh1w/playlist.m3u8
